@@ -1,10 +1,10 @@
 # Train-Schedule-Firebase
 
-Game: Trivia Chicago \
+Game: Train Schedule \
 Created for: Northwestern Coding Bootcamp \
 Developer: Natalia Kukula \
-Deployment Date:  October 4, 2018 \
-Published: GitHub <https://nataliakukula.github.io/TriviaGame/> \
+Deployment Date:  October 15, 2018 \
+Published: GitHub <https://nataliakukula.github.io/Train-Schedule-Firebase/> \
 Built with: HTML5, CSS3, Bootstrap, Javascript & jQuery
 
 ## Summary: 
